@@ -4,7 +4,7 @@
 
 The Internet faces significant challenges related to legitimate MOAS (Multiple-Origin Autonomous System) conflicts and route origin hijacking, which often exhibit similar patterns. VRO addresses these issues through a decentralized cooperative system among ASes (Autonomous Systems) to enhance routing security. 
 
-![vro-arch.png](https://github.com/VRO-Project/VRO-Project/blob/main/vro_arch.png
+![vro-arch.png](https://github.com/VRO-Project/VRO-Project/blob/main/vro_arch.png)
 
 ### Key Features
 
