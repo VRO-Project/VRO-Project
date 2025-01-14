@@ -18,16 +18,16 @@ The Internet faces significant challenges related to legitimate MOAS (Multiple-O
 
 Draft Specifications
 
-- [x] Problem Statement Draft
-- [x] Allowlist Mechanism Profile Draft
-- [ ] Allowlist Mechanism Profile Draft
+- [x] Problem Statement Draft: https://github.com/VRO-Project/draft-jiang-sidrops-psvro
+- [x] Allowlist Mechanism Profile Draft: https://github.com/VRO-Project/draft-li-sidrops-rpki-moasgroup
+- [ ] Allowlist Mechanism Profile Draft: https://github.com/VRO-Project/draft-li-sidrops-smg-verification (In Progress)
 - [ ] Blocklist Mechanism Draft
 
 Development
 
-- [x] Allowlist Mechanism
-- [x] Blocklist Mechanism (Smart Contract)
-- [x] Blocklist Mechanism (Off-Chain)
+- [x] Allowlist Mechanism: https://github.com/VRO-Project/signed_moas_group
+- [x] Blocklist Mechanism (Smart Contract): https://github.com/VRO-Project/vro_smart_contract
+- [x] Blocklist Mechanism (Off-Chain): https://github.com/VRO-Project/vro_agent
 - [ ] RTR
 
 
