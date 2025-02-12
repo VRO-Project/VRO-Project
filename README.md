@@ -20,7 +20,7 @@ Draft Specifications
 
 - [x] [Problem Statement Draft](https://github.com/VRO-Project/draft-jiang-sidrops-psvro)
 - [x] [Allowlist Mechanism Profile Draft](https://github.com/VRO-Project/draft-li-sidrops-rpki-moasgroup)
-- [ ] [Allowlist Mechanism Profile Draft](https://github.com/VRO-Project/draft-li-sidrops-smg-verification) (In Progress)
+- [ ] [Allowlist Mechanism Verification Draft](https://github.com/VRO-Project/draft-li-sidrops-smg-verification) (In Progress)
 - [ ] Blocklist Mechanism Draft
 
 Development
